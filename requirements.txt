@@ -1,3 +1,4 @@
 Flask
-request
-render_template
+requests
+gunicorn
+
